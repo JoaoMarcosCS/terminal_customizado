@@ -19,5 +19,5 @@ def window_size(colums=750, height=30):
 
 if __name__ == "__main__":
     window_size(80,20)
-    print(font("Sistema de Estoque!"))
+    print(font("Terminal customizado!"))
     loading()
